@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32140
     wikipedia: http://en.wikipedia.org/wiki/Percy_F._Westerman
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37600#The-Fight-for-Constantinople--A-Story-of-the-Gallipoli-Peninsula
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2011-10-02'
 gutenberg_type: Text
