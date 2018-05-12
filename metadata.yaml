@@ -1,0 +1,38 @@
+_repo: The-Fight-for-Constantinople--A-Story-of-the-Gallipoli-Peninsula_37600
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Wigfull, W. Edward
+    aliases:
+    - Wigfull, W.E.
+    - Wigfull, W. E.
+    gutenberg_agent_id: '43116'
+    url: http://www.gutenberg.org/2009/agents/43116
+covers:
+- cover_type: archival
+  image_path: 37600-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Westerman, Percy F. (Percy Francis)
+    birthdate: 1876
+    deathdate: 1959
+    gutenberg_agent_id: '32140'
+    url: http://www.gutenberg.org/2009/agents/32140
+    wikipedia: http://en.wikipedia.org/wiki/Percy_F._Westerman
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2011-10-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37600'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Adventure stories'
+- !lcsh 'Great Britain. Royal Navy -- Juvenile fiction'
+title: 'The Fight for Constantinople: A Story of the Gallipoli Peninsula'
+url: http://www.gutenberg.org/ebooks/37600
